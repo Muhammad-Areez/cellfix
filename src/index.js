@@ -19,10 +19,7 @@ root.render(
       <PersistGate loading={null} persistor={persistor}>
         <App />
         <ToastContainer
-<<<<<<< HEAD
-=======
         className="toastify"
->>>>>>> 44b9ae1c1c044de235c97c977f1aba24915e5325
         position="top-right"
         autoClose={5000}
         hideProgressBar={false}

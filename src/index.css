@@ -1312,8 +1312,6 @@ p {
   font-size: 18px;
   cursor: pointer;
 }
-<<<<<<< HEAD
-=======
 .image-upload-container {
   margin-bottom: 1rem;
 }
@@ -1351,7 +1349,6 @@ p {
   justify-content: center;
 }
 
->>>>>>> 44b9ae1c1c044de235c97c977f1aba24915e5325
 @keyframes spin {
   to {
     transform: rotate(360deg);
