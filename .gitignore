@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dependencies
 /node_modules
 /.pnp
@@ -43,3 +44,6 @@ Desktop.ini
 
 # Optional: next.js (if used in monorepo)
 /.next
+=======
+node_modules
+>>>>>>> 44b9ae1c1c044de235c97c977f1aba24915e5325

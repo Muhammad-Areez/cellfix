@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import axios, {
 //     AxiosRequestConfig,
 //     AxiosResponse,
@@ -83,6 +84,8 @@
 //       };
 //     }
 //   };
+=======
+>>>>>>> 44b9ae1c1c044de235c97c977f1aba24915e5325
 import axios from "axios";
 import { store } from "../redux";
 
@@ -91,8 +94,11 @@ import { store } from "../redux";
 
 const instance = axios.create({
   baseURL: "https://www.houstoncellphone.repair/cell_fix/public/api/",
+<<<<<<< HEAD
   // baseURL: 'https://client1.appsstaging.com:3013/api/',
   // baseURL: 'https://a6cc-202-59-15-163.ngrok-free.app/api/',
+=======
+>>>>>>> 44b9ae1c1c044de235c97c977f1aba24915e5325
   timeout: 20000,
 });
 
